@@ -42,6 +42,20 @@ $ npm install –save-dev gulp-image-resize
 
 ```
 
+## How to run?
+
+For optimize task: 
+```
+
+gulp image-optim
+
+```
+For resize task: 
+
+```
+gulp image-resize
+
+```
 
 ## created by / at
 Mami 
